@@ -261,14 +261,20 @@ const Heros = () => {
         >
           <Typography style={{ color: "white" }}>Rank</Typography>
           <Button
-            style={{ marginLeft: 10 }}
+            style={{
+              marginLeft: 10,
+              background: rank === "0" ? "#C7A600" : "#1976d2",
+            }}
             onClick={() => setRank("0")}
             variant="contained"
           >
             All
           </Button>
           <Button
-            style={{ marginLeft: 10 }}
+            style={{
+              marginLeft: 10,
+              background: rank === "1" ? "#C7A600" : "#1976d2",
+            }}
             onClick={() => setRank("1")}
             variant="contained"
           >

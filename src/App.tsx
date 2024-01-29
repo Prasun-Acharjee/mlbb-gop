@@ -7,6 +7,7 @@ import { QueryClient, QueryClientProvider } from "react-query";
 import HeroPage from "./Pages/HeroPage";
 import { ThemeProvider } from "@mui/material";
 import { theme } from "./theme";
+import Navbar from "./Components/Navbar";
 
 const queryClient = new QueryClient();
 
@@ -15,6 +16,7 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <ThemeProvider theme={theme}>
         <BrowserRouter>
+          <Navbar />
           <Routes>
             <Route path="/">
               <Route index element={<Home />} />
