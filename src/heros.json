@@ -1,0 +1,993 @@
+{
+    "status": "success",
+    "code": 0,
+    "data": {
+        "data": [
+            {
+                "id": 1,
+                "use": "1.46%",
+                "win": "46.79%",
+                "ban": "0.6%",
+                "avatar": "//indoch.s3.ml.moonlian.com/web/madmin/image_a844f9aa51baefa6878801edd85fec5e.png",
+                "name": "Miya"
+            },
+            {
+                "id": 2,
+                "use": "2.32%",
+                "win": "47.38%",
+                "ban": "54.68%",
+                "avatar": "//indoch.s3.ml.moonlian.com/web/madmin/image_be884c14d560f6bc5827e2a663439f94.png",
+                "name": "Balmond"
+            },
+            {
+                "id": 3,
+                "use": "0.93%",
+                "win": "47.78%",
+                "ban": "4.85%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/35a5d68d1704e2c4c6323abd4859a622.jpg?w=100-100-4b3f67",
+                "name": "Saber"
+            },
+            {
+                "id": 4,
+                "use": "0.89%",
+                "win": "58.78%",
+                "ban": "44.42%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_7f0da9c3ddefff4530e8dbe17054c45e.png",
+                "name": "Alice"
+            },
+            {
+                "id": 5,
+                "use": "3.94%",
+                "win": "50.21%",
+                "ban": "19.09%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_08d0332be76ff7bdd894f7c7227be56c.png",
+                "name": "Nana"
+            },
+            {
+                "id": 6,
+                "use": "3.07%",
+                "win": "50.3%",
+                "ban": "4.54%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_23a7a603ff9d20074777d52e2eb202f3.jpg",
+                "name": "Tigreal"
+            },
+            {
+                "id": 7,
+                "use": "0.42%",
+                "win": "48.39%",
+                "ban": "0.18%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2f53289ddd423fa9bc95d380b6d79719.jpg",
+                "name": "Alucard"
+            },
+            {
+                "id": 8,
+                "use": "0.86%",
+                "win": "47.75%",
+                "ban": "4.42%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/1691dbbde8237768590768a90510d5a6.jpg?w=100-100-f7fcc4",
+                "name": "Karina"
+            },
+            {
+                "id": 9,
+                "use": "0.37%",
+                "win": "46.63%",
+                "ban": "0.16%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/25141fb8aa27cfbe9f030449721b11af.png?w=150-150-4f3225",
+                "name": "Akai"
+            },
+            {
+                "id": 10,
+                "use": "2.31%",
+                "win": "46.01%",
+                "ban": "3.43%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_07605801972ede9147e9769ac7991aa0.png",
+                "name": "Franco"
+            },
+            {
+                "id": 11,
+                "use": "0.3%",
+                "win": "50.53%",
+                "ban": "0.11%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/4df530323017868ec04315818e9c2954.png?w=150-150-241615",
+                "name": "Bane"
+            },
+            {
+                "id": 12,
+                "use": "1.12%",
+                "win": "49.43%",
+                "ban": "0.29%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_46fd4d9fa09a27e61b7481e1aeaa0615.png",
+                "name": "Bruno"
+            },
+            {
+                "id": 13,
+                "use": "0.68%",
+                "win": "49.85%",
+                "ban": "0.09%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_324e2b04393700944b2b54f2f6c939b5.jpg",
+                "name": "Clint"
+            },
+            {
+                "id": 14,
+                "use": "0.5%",
+                "win": "53.35%",
+                "ban": "0.66%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_549ab8159821398b48e7e79ceb298396.png",
+                "name": "Rafaela"
+            },
+            {
+                "id": 15,
+                "use": "0.78%",
+                "win": "46.28%",
+                "ban": "0.62%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ed32e3c71ecd41652fc54a7efd02aba4.jpg",
+                "name": "Eudora"
+            },
+            {
+                "id": 16,
+                "use": "1.42%",
+                "win": "46%",
+                "ban": "0.52%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_3bbb2c2b8a78d0d63ecd62d74048fcf4.jpg",
+                "name": "Zilong"
+            },
+            {
+                "id": 17,
+                "use": "0.5%",
+                "win": "48.05%",
+                "ban": "2.51%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_523a730c11b8c22fc6c3fcc5575c29a2.png",
+                "name": "Fanny"
+            },
+            {
+                "id": 18,
+                "use": "2.19%",
+                "win": "47.57%",
+                "ban": "1.54%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a05a03db633cc03ef3f733d2786073c4.jpg",
+                "name": "Layla"
+            },
+            {
+                "id": 19,
+                "use": "0.86%",
+                "win": "55.07%",
+                "ban": "1.59%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/1ec5d92a9e0981838a6b362cd21cbdb0.jpg?w=100-100-3c0d15",
+                "name": "Minotaur"
+            },
+            {
+                "id": 20,
+                "use": "0.19%",
+                "win": "54.78%",
+                "ban": "0.48%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_007ce553513122fdab39684dbbe215e3.png",
+                "name": "Lolita"
+            },
+            {
+                "id": 21,
+                "use": "0.41%",
+                "win": "48.11%",
+                "ban": "0.29%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/3de2f55e701a340a02f1828e79cdb9fa.png?w=150-150-1f1820",
+                "name": "Hayabusa"
+            },
+            {
+                "id": 22,
+                "use": "0.43%",
+                "win": "49.96%",
+                "ban": "0.26%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a9a20c5d2a4a94af878a62c07ea373e0.jpg",
+                "name": "Freya"
+            },
+            {
+                "id": 23,
+                "use": "0.83%",
+                "win": "52.16%",
+                "ban": "0.28%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_24b9fa9519483b3d2168261b0fb6c0cf.png",
+                "name": "Gord"
+            },
+            {
+                "id": 24,
+                "use": "0.23%",
+                "win": "50.97%",
+                "ban": "0.39%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_50b8723a3ca11dd18d34d26948aef12b.png",
+                "name": "Natalia"
+            },
+            {
+                "id": 25,
+                "use": "0.36%",
+                "win": "50.05%",
+                "ban": "0.12%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/b7bedaacdacd3de349e538f72fe640c9.png?w=150-150-423c5f",
+                "name": "Kagura"
+            },
+            {
+                "id": 26,
+                "use": "1.02%",
+                "win": "45.3%",
+                "ban": "0.45%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a3dd4a2b8bd5b8f25a8dd520f2c1c71a.png",
+                "name": "Chou"
+            },
+            {
+                "id": 27,
+                "use": "0.76%",
+                "win": "47.98%",
+                "ban": "1.06%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_802a9c5f922e63054fcf11aa7d012482.png",
+                "name": "Sun"
+            },
+            {
+                "id": 28,
+                "use": "1.82%",
+                "win": "50.68%",
+                "ban": "2.27%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/796cd5f6a8ba0e76226fd0cd6866eb1e.jpg?w=100-100-28181b",
+                "name": "Alpha"
+            },
+            {
+                "id": 29,
+                "use": "0.67%",
+                "win": "54.01%",
+                "ban": "0.25%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/c92a3a9d1e83af0503646a8ac26934eb.png?w=150-150-857a9b",
+                "name": "Ruby"
+            },
+            {
+                "id": 30,
+                "use": "0.16%",
+                "win": "52.06%",
+                "ban": "0.04%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1b5d6197b9e0e82e606b3cf962804fa5.jpg",
+                "name": "Yi Sun-shin"
+            },
+            {
+                "id": 31,
+                "use": "1.08%",
+                "win": "48.23%",
+                "ban": "0.92%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/2f37c7bb49843330b8b972f11b60da08.png?w=150-150-3f498a",
+                "name": "Moskov"
+            },
+            {
+                "id": 32,
+                "use": "0.94%",
+                "win": "47.83%",
+                "ban": "2.96%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_bb588518788b5eefec870813bfdb8944.png",
+                "name": "Johnson"
+            },
+            {
+                "id": 33,
+                "use": "0.7%",
+                "win": "50.79%",
+                "ban": "0.16%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_cef4d89fd02965d3aae272c30990dbe8.png",
+                "name": "Cyclops"
+            },
+            {
+                "id": 34,
+                "use": "0.83%",
+                "win": "49.96%",
+                "ban": "38.24%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_42b2d76fe927ce57a1d29e220e2b5eea.png",
+                "name": "Estes"
+            },
+            {
+                "id": 35,
+                "use": "0.47%",
+                "win": "48.57%",
+                "ban": "0.24%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_fec6f3923209642a74789e42c41a2038.png",
+                "name": "Hilda"
+            },
+            {
+                "id": 36,
+                "use": "0.07%",
+                "win": "46.52%",
+                "ban": "0.04%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_e03bc05ecfcc5b9a97c7dc0b36767d61.png",
+                "name": "Aurora"
+            },
+            {
+                "id": 37,
+                "use": "0.34%",
+                "win": "48.7%",
+                "ban": "0.05%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_8b60cceca5b04e97da7372f12bfeb612.jpg",
+                "name": "Lapu-Lapu"
+            },
+            {
+                "id": 38,
+                "use": "2.18%",
+                "win": "50.05%",
+                "ban": "3.01%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/2334082b961a77941bc0f87e598bfabb.png?w=150-150-233238",
+                "name": "Vexana"
+            },
+            {
+                "id": 39,
+                "use": "0.55%",
+                "win": "51.42%",
+                "ban": "0.16%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_d2f1ce4289d7399177b7f8a25bdf593d.png",
+                "name": "Roger"
+            },
+            {
+                "id": 40,
+                "use": "1.1%",
+                "win": "48.46%",
+                "ban": "0.32%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2ae89c203ad1488fa1af6b7e51dae488.png",
+                "name": "Karrie"
+            },
+            {
+                "id": 41,
+                "use": "1.17%",
+                "win": "51.83%",
+                "ban": "0.7%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_8b7e7d0bf164c78553806661deb1d672.png",
+                "name": "Gatotkaca"
+            },
+            {
+                "id": 42,
+                "use": "1.04%",
+                "win": "52.21%",
+                "ban": "12.56%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a2f1d7806d874283c83913f14a533bb0.png",
+                "name": "Harley"
+            },
+            {
+                "id": 43,
+                "use": "0.62%",
+                "win": "50.04%",
+                "ban": "0.1%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1a30fb8c6fc6086fc2b3c9795e7305e6.png",
+                "name": "Irithel"
+            },
+            {
+                "id": 44,
+                "use": "0.09%",
+                "win": "47.49%",
+                "ban": "0.04%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_47c9a9a373919fd9cc0c68ff7788b32a.png",
+                "name": "Grock"
+            },
+            {
+                "id": 45,
+                "use": "0.19%",
+                "win": "54.28%",
+                "ban": "0.12%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/14fa1f3db81e6b3507c6bac842b45553.png?w=150-149-30384b",
+                "name": "Argus"
+            },
+            {
+                "id": 46,
+                "use": "0.91%",
+                "win": "50.92%",
+                "ban": "0.41%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/071fd5539ac4ba53b1dc27195cd6d4bd.png?w=150-150-fff8da",
+                "name": "Odette"
+            },
+            {
+                "id": 47,
+                "use": "1.51%",
+                "win": "47.58%",
+                "ban": "1.46%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/e20549844522450e535e614538699eb9.png?w=150-150-ffe4db",
+                "name": "Lancelot"
+            },
+            {
+                "id": 48,
+                "use": "0.54%",
+                "win": "55.76%",
+                "ban": "14.99%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_84b30de71c6315ecc936a8b4d5076efc.png",
+                "name": "Diggie"
+            },
+            {
+                "id": 49,
+                "use": "0.22%",
+                "win": "53.06%",
+                "ban": "0.08%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f3ddb1088279d711417234034024223d.png",
+                "name": "Hylos"
+            },
+            {
+                "id": 50,
+                "use": "0.6%",
+                "win": "53.38%",
+                "ban": "0.57%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ca13970038ce4d7590d2f271b6c6f7f5.png",
+                "name": "Zhask"
+            },
+            {
+                "id": 51,
+                "use": "0.24%",
+                "win": "50.57%",
+                "ban": "0.52%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2baf1efb2d414acedf4a89b6fa330ad2.png",
+                "name": "Helcurt"
+            },
+            {
+                "id": 52,
+                "use": "0.3%",
+                "win": "44.73%",
+                "ban": "0.08%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_212e59ee7c8490397278ba68c8063a19.png",
+                "name": "Pharsa"
+            },
+            {
+                "id": 53,
+                "use": "1.17%",
+                "win": "46%",
+                "ban": "0.38%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/da570e4daad77939a40f93c3c1034b83.png?w=150-150-320f16",
+                "name": "Lesley"
+            },
+            {
+                "id": 54,
+                "use": "0.41%",
+                "win": "47.33%",
+                "ban": "0.18%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_9bddad128d45821b7fd6abb9773d7c53.png",
+                "name": "Jawhead"
+            },
+            {
+                "id": 55,
+                "use": "2.13%",
+                "win": "51.14%",
+                "ban": "28.72%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_feffcc9c39731586e645dbef2ce70afd.png",
+                "name": "Angela"
+            },
+            {
+                "id": 56,
+                "use": "0.86%",
+                "win": "48.31%",
+                "ban": "0.59%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/0226b7cc6015fb50aa8ff4e1c9cf8c62.png?w=150-150-242539",
+                "name": "Gusion"
+            },
+            {
+                "id": 57,
+                "use": "1.57%",
+                "win": "50.49%",
+                "ban": "15.28%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_11c3284b5ea83dfd377f4d1b9724c960.jpg",
+                "name": "Valir"
+            },
+            {
+                "id": 58,
+                "use": "1.62%",
+                "win": "48.12%",
+                "ban": "13.19%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f6b745cc6347b4666c8ae31e5bb8edaa.png",
+                "name": "Martis"
+            },
+            {
+                "id": 59,
+                "use": "0.33%",
+                "win": "49.03%",
+                "ban": "0.21%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_03f3e7982542f805a4ec9e5659ed217e.png",
+                "name": "Uranus"
+            },
+            {
+                "id": 60,
+                "use": "3.82%",
+                "win": "52.01%",
+                "ban": "4.96%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/e03a3e6f2eb41243b9d9d1cc1f89cadd.png?w=150-150-070b18",
+                "name": "Hanabi"
+            },
+            {
+                "id": 61,
+                "use": "1.4%",
+                "win": "50.63%",
+                "ban": "1.87%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1a6b949d43ed33a7ad939ee4a0420b3e.png",
+                "name": "Chang'e"
+            },
+            {
+                "id": 62,
+                "use": "0.11%",
+                "win": "49.69%",
+                "ban": "0.11%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_7fe2a243687bb024b5728ea4bbf422fe.png",
+                "name": "Kaja"
+            },
+            {
+                "id": 63,
+                "use": "0.63%",
+                "win": "50.18%",
+                "ban": "0.46%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_0956f8d25d39312d0da5dca2cfca074c.png",
+                "name": "Selena"
+            },
+            {
+                "id": 64,
+                "use": "1.11%",
+                "win": "50.35%",
+                "ban": "2.06%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_433f9653743e72e1e152428d26838f9e.png",
+                "name": "Aldous"
+            },
+            {
+                "id": 65,
+                "use": "1.61%",
+                "win": "50.32%",
+                "ban": "0.27%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_99318a0a409d80f0f2d4b47ee63b6bda.png",
+                "name": "Claude"
+            },
+            {
+                "id": 66,
+                "use": "1.03%",
+                "win": "51.79%",
+                "ban": "1.41%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_de9363822c6d50d5dde8500a05b9657b.png",
+                "name": "Vale"
+            },
+            {
+                "id": 67,
+                "use": "0.14%",
+                "win": "50.16%",
+                "ban": "0.06%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/5b4e0506472b28e1c6a02384c3054e68.png?w=150-150-797b82",
+                "name": "Leomord"
+            },
+            {
+                "id": 68,
+                "use": "0.96%",
+                "win": "52.81%",
+                "ban": "43.84%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_823bd0fce2a95b8452d52750df8d35f5.png",
+                "name": "Lunox"
+            },
+            {
+                "id": 69,
+                "use": "0.25%",
+                "win": "51.53%",
+                "ban": "2.13%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_94a3512d03632badcf05fb858ac6d573.png",
+                "name": "Hanzo"
+            },
+            {
+                "id": 70,
+                "use": "0.64%",
+                "win": "53.34%",
+                "ban": "0.69%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f9b01617505b9562d3bbc75e9d392c91.jpg",
+                "name": "Belerick"
+            },
+            {
+                "id": 71,
+                "use": "0.34%",
+                "win": "51.18%",
+                "ban": "0.26%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c504661df2f22fd56f566402b00f91cd.png",
+                "name": "Kimmy"
+            },
+            {
+                "id": 72,
+                "use": "1.01%",
+                "win": "49.76%",
+                "ban": "1.06%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_5348df62801bc2fe1c093f8607c2e4a2.png",
+                "name": "Thamuz"
+            },
+            {
+                "id": 73,
+                "use": "0.18%",
+                "win": "50.2%",
+                "ban": "0.07%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_6df4352d8f0d6ce429ad308d323c6206.png",
+                "name": "Harith"
+            },
+            {
+                "id": 74,
+                "use": "0.32%",
+                "win": "49.04%",
+                "ban": "0.69%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/4ca3844586ef2cce730279ba44b6313b.png?w=150-150-31231d",
+                "name": "Minsitthar"
+            },
+            {
+                "id": 75,
+                "use": "0.51%",
+                "win": "49.19%",
+                "ban": "0.28%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c8bec784a42a812db26ea3f34c029fdc.png",
+                "name": "Kadita"
+            },
+            {
+                "id": 76,
+                "use": "0.3%",
+                "win": "51.39%",
+                "ban": "1.46%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/977b95bbb8a5dc634d741bdd5bda3b2f.png?w=150-150-2a3e44",
+                "name": "Faramis"
+            },
+            {
+                "id": 77,
+                "use": "0.51%",
+                "win": "48.51%",
+                "ban": "0.16%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_686f5e16b9d129d7012751241943c2c9.png",
+                "name": "Badang"
+            },
+            {
+                "id": 78,
+                "use": "0.61%",
+                "win": "50.4%",
+                "ban": "0.5%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_398cd0a73db63a4b098ab28de5953a0d.png",
+                "name": "Khufra"
+            },
+            {
+                "id": 79,
+                "use": "0.53%",
+                "win": "49.06%",
+                "ban": "0.11%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c7e48401ff0d33cb91ff1b4a59b3c0cf.png",
+                "name": "Granger"
+            },
+            {
+                "id": 80,
+                "use": "2.02%",
+                "win": "51.2%",
+                "ban": "31.44%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_0bb9349ff0a17747c126ea107a11e6cd.png",
+                "name": "Guinevere"
+            },
+            {
+                "id": 81,
+                "use": "0.41%",
+                "win": "45.38%",
+                "ban": "0.15%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b691012cb168b31b172da8b62552e746.png",
+                "name": "Esmeralda"
+            },
+            {
+                "id": 82,
+                "use": "0.92%",
+                "win": "51.86%",
+                "ban": "0.84%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_45c908d0d59990c13d229ab22db05ebb.png",
+                "name": "Terizla"
+            },
+            {
+                "id": 83,
+                "use": "0.87%",
+                "win": "54.15%",
+                "ban": "1.32%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1d4d7dfe38cb5e0fcfcf06b8af6b2103.png",
+                "name": "X.Borg"
+            },
+            {
+                "id": 84,
+                "use": "0.3%",
+                "win": "48.66%",
+                "ban": "0.18%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_cdbe15a03ad4518f37d89c9e1cbf5c4e.png",
+                "name": "Ling"
+            },
+            {
+                "id": 85,
+                "use": "2.79%",
+                "win": "47.6%",
+                "ban": "2.5%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1604bdeb797af75682b7e3ae3728e3db.png",
+                "name": "Dyrroth"
+            },
+            {
+                "id": 86,
+                "use": "0.81%",
+                "win": "51.12%",
+                "ban": "0.34%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_bd89e9f00f56e708f4c9adecf0c57c64.png",
+                "name": "Lylia"
+            },
+            {
+                "id": 87,
+                "use": "0.18%",
+                "win": "50.08%",
+                "ban": "0.09%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_22474dd14312ea67d5d2caa742bff2ec.png",
+                "name": "Baxia"
+            },
+            {
+                "id": 88,
+                "use": "0.11%",
+                "win": "55.42%",
+                "ban": "0.08%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_9d0de850dd87bd7780be02ec20cad693.png",
+                "name": "Masha"
+            },
+            {
+                "id": 89,
+                "use": "1.36%",
+                "win": "54.74%",
+                "ban": "29.78%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_d744e6f02ba1d9b5f246a5532cc2b201.png",
+                "name": "Wanwan"
+            },
+            {
+                "id": 90,
+                "use": "0.29%",
+                "win": "47.61%",
+                "ban": "0.06%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_743db67971d02b6a9a8065d9cedade23.png",
+                "name": "Silvanna"
+            },
+            {
+                "id": 91,
+                "use": "0.81%",
+                "win": "48.55%",
+                "ban": "0.19%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a66ec3b1b8036839538cc0ade8aff50c.jpg",
+                "name": "Cecilion"
+            },
+            {
+                "id": 92,
+                "use": "0.09%",
+                "win": "52.41%",
+                "ban": "0.09%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b7f2851b57e938c41ce32c00c685e0c8.jpg",
+                "name": "Carmilla"
+            },
+            {
+                "id": 93,
+                "use": "0.64%",
+                "win": "50.6%",
+                "ban": "2.24%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a2f68d5c30c0198006b2c85b7a5cb48b.png",
+                "name": "Atlas"
+            },
+            {
+                "id": 94,
+                "use": "0.43%",
+                "win": "51.66%",
+                "ban": "0.17%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ca29a7735b2c9ae8cd38d745d4d18bcd.jpg",
+                "name": "Popol and Kupa"
+            },
+            {
+                "id": 95,
+                "use": "1.32%",
+                "win": "51.42%",
+                "ban": "0.5%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ce46392c8bb8714320dc51ee6c0b3e84.jpg",
+                "name": "Yu Zhong"
+            },
+            {
+                "id": 96,
+                "use": "0.49%",
+                "win": "52.2%",
+                "ban": "0.23%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c9f30c0ebde489a34b70ba1064c6fb02.jpg",
+                "name": "Luo Yi"
+            },
+            {
+                "id": 97,
+                "use": "0.34%",
+                "win": "53.94%",
+                "ban": "0.13%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f09a3869e4236053915d3757c1ff1f3f.jpg",
+                "name": "Benedetta"
+            },
+            {
+                "id": 98,
+                "use": "0.25%",
+                "win": "54.16%",
+                "ban": "0.06%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ac05d090c11fe4aefa6a7d004493fb65.jpg",
+                "name": "Khaleed"
+            },
+            {
+                "id": 99,
+                "use": "0.83%",
+                "win": "53.29%",
+                "ban": "23.39%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_52c80b58ebb105e96295c11d9bfd9a9b.jpg",
+                "name": "Barats"
+            },
+            {
+                "id": 100,
+                "use": "1.42%",
+                "win": "52.19%",
+                "ban": "0.48%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b09c321e1766f686935775d11ad22787.jpg",
+                "name": "Brody"
+            },
+            {
+                "id": 101,
+                "use": "0.04%",
+                "win": "48.45%",
+                "ban": "0.04%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/a5287c3bf2d77b64314528d437ec365b.png?w=150-150-3a2a57",
+                "name": "Yve"
+            },
+            {
+                "id": 102,
+                "use": "0.51%",
+                "win": "53.42%",
+                "ban": "9.94%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_74d09f52db9256502ecf2c32211a8102.jpg",
+                "name": "Mathilda"
+            },
+            {
+                "id": 103,
+                "use": "0.3%",
+                "win": "45.93%",
+                "ban": "0.09%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f3695c153689c30f8ebfd334931e0525.jpg",
+                "name": "Paquito"
+            },
+            {
+                "id": 104,
+                "use": "0.07%",
+                "win": "52.06%",
+                "ban": "0.16%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/14a44f871e2d9e0aaf35149e6201fb8a.png?w=150-150-e2ddd3",
+                "name": "Gloo"
+            },
+            {
+                "id": 105,
+                "use": "0.67%",
+                "win": "45.46%",
+                "ban": "0.12%",
+                "avatar": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_bc9478f69dafbf6ff27d8e19899637ca.png",
+                "name": "Beatrix"
+            },
+            {
+                "id": 106,
+                "use": "0.16%",
+                "win": "51.54%",
+                "ban": "0.22%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/255c86f3a2ed403b6e889f5a9f43bae4.png?w=150-150-443f42",
+                "name": "Phoveus"
+            },
+            {
+                "id": 107,
+                "use": "0.32%",
+                "win": "50.66%",
+                "ban": "0.17%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/d48d72c81c740e59b3a67ed83a74c128.png?w=150-150-6d5846",
+                "name": "Natan"
+            },
+            {
+                "id": 108,
+                "use": "0.15%",
+                "win": "51.62%",
+                "ban": "0.13%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/c5d496ae30a8f83e42e70a80f07240fa.jpg?w=150-150-401a19",
+                "name": "Aulus"
+            },
+            {
+                "id": 109,
+                "use": "0.43%",
+                "win": "49.74%",
+                "ban": "0.55%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/9d9bd7e99dcaad637c0c7b3280a84a31.png?w=150-150-f6fefd",
+                "name": "Aamon"
+            },
+            {
+                "id": 110,
+                "use": "0.32%",
+                "win": "43.69%",
+                "ban": "0.34%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/3fcfa9c74ac47800a3e13a5985d76e55.png?w=150-150-debef7",
+                "name": "Valentina"
+            },
+            {
+                "id": 111,
+                "use": "0.48%",
+                "win": "51.19%",
+                "ban": "0.25%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/04d1a3a5e49f6a68604bab57ca96ab5c.png?w=150-150-312b1f",
+                "name": "Edith"
+            },
+            {
+                "id": 112,
+                "use": "0.47%",
+                "win": "54.84%",
+                "ban": "6.13%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/ddd105d16922b8122368acb0a8f3606f.png?w=150-150-1d2234",
+                "name": "Floryn"
+            },
+            {
+                "id": 113,
+                "use": "1.02%",
+                "win": "49.08%",
+                "ban": "11.93%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/64b128105615ba7902959147acfb803a.png?w=150-150-240603",
+                "name": "Yin"
+            },
+            {
+                "id": 114,
+                "use": "0.59%",
+                "win": "51.55%",
+                "ban": "0.69%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/ade52e885298e4a35320d3ab5900892b.png?w=150-150-453f3b",
+                "name": "Melissa"
+            },
+            {
+                "id": 115,
+                "use": "0.46%",
+                "win": "50.67%",
+                "ban": "0.08%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/3773d63a9d3f37b16106ad6eb7d32a39.png?w=150-150-fffffe",
+                "name": "Xavier"
+            },
+            {
+                "id": 116,
+                "use": "0.35%",
+                "win": "49.49%",
+                "ban": "0.24%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/7eb35b7780eaa94993aaada931b28adb.png?w=150-150-0d1318",
+                "name": "Julian"
+            },
+            {
+                "id": 117,
+                "use": "0.36%",
+                "win": "46.42%",
+                "ban": "0.33%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/5157d0f32d6032a079d4437d3320dfe1.png?w=150-150-272323",
+                "name": "Fredrinn"
+            },
+            {
+                "id": 118,
+                "use": "0.24%",
+                "win": "52.07%",
+                "ban": "2.79%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/41ea7c650a26473c193f21e20fd123d6.png?w=500-499-926a2d",
+                "name": "Joy"
+            },
+            {
+                "id": 119,
+                "use": "0.87%",
+                "win": "50.55%",
+                "ban": "3.45%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/233e528d55a4c6083bd914c2768ac50d.png?w=150-150-704da9",
+                "name": "Novaria"
+            },
+            {
+                "id": 120,
+                "use": "0.63%",
+                "win": "50.97%",
+                "ban": "1.93%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/bd640274b1595c6713c5c360c458a740.png?w=150-150-414254",
+                "name": "Arlott"
+            },
+            {
+                "id": 121,
+                "use": "0.57%",
+                "win": "52.97%",
+                "ban": "0.9%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/71151817eb86c12a1114508b5aaded13.jpg?w=128-128-fff3d3",
+                "name": "Ixia"
+            },
+            {
+                "id": 122,
+                "use": "0.84%",
+                "win": "52.13%",
+                "ban": "47.41%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/a00c000fd13db499e4bd43766dc56101.png?w=150-150-fffffe",
+                "name": "Nolan"
+            },
+            {
+                "id": 123,
+                "use": "1.87%",
+                "win": "48.91%",
+                "ban": "58.42%",
+                "avatar": "//akmweb.youngjoygame.com/web/madmin/image/bc77a45f649d36befd844b767a0b66e2.png?w=200-200-4675b1",
+                "name": "Cici"
+            }
+        ],
+        "time": "20240104"
+    }
+}
